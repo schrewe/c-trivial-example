@@ -1,0 +1,1 @@
+void consume_bytes(const char* string, size_t len);
